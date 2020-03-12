@@ -1,0 +1,41 @@
+
+  body {
+
+    background-color: skyblue;
+  }
+
+  hr {
+
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    background-color: none;
+    width: 10%;
+    height: 10px;
+  }
+
+  h1{
+    color: #216353;
+    font-family: monospace;
+    text-shadow: 2px 3px yellow;
+    word-spacing: 2px;
+    line-height: 20px;
+    text-align: center;
+
+
+  }
+
+  h2{
+    color: #216353;
+    text-shadow: 2px 2px snow;
+
+
+    font-family:  cursive;
+
+  }
+
+{
+  text-align: center;
+
+  }
